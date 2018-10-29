@@ -13,6 +13,8 @@ public class DemoApplication {
 		System.out.println("dddd");
 		System.out.println("eeee");
 		System.out.println("ffff");
+		System.out.println("gggg1");
+		System.out.println("gggg2");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
